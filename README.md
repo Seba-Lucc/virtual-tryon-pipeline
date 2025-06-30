@@ -25,9 +25,28 @@ A robust and efficient virtual try-on system that allows users to virtually try 
 
 ### Setup
 
+#### Option 1: Automatic Setup (Recommended)
+
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/virtual-tryon-pipeline.git
+git clone https://github.com/Seba-Lucc/virtual-tryon-pipeline.git
+cd virtual-tryon-pipeline
+```
+
+2. Run the setup script:
+```bash
+# On macOS/Linux:
+./setup.sh
+
+# On Windows:
+setup.bat
+```
+
+#### Option 2: Manual Setup
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Seba-Lucc/virtual-tryon-pipeline.git
 cd virtual-tryon-pipeline
 ```
 
