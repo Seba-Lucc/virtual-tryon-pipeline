@@ -16,8 +16,8 @@ device = "mps" if torch.backends.mps.is_available() else "cpu"
 print(f"Device: {device}")
 
 # Load images
-person_img = cv2.imread("tst.jpg")
-garment_img = cv2.imread("Soggetto.png", cv2.IMREAD_UNCHANGED)
+person_img = cv2.imread("Soggetto1.jpg")
+garment_img = cv2.imread("Capo3.png", cv2.IMREAD_UNCHANGED)
 
 if person_img is None or garment_img is None:
     print("❌ Could not load images")
