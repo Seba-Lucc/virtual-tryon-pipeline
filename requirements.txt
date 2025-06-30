@@ -1,0 +1,22 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Transformers and Diffusers
+transformers>=4.30.0
+diffusers>=0.18.0
+accelerate>=0.20.0
+
+# Computer Vision
+opencv-python>=4.7.0
+Pillow>=9.5.0
+
+# Scientific Computing
+numpy>=1.24.0
+
+# Hugging Face
+huggingface_hub>=0.15.0
+
+# Optional: For better performance
+# xformers>=0.0.20  # Uncomment for faster attention computation
