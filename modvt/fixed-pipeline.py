@@ -33,8 +33,8 @@ class FixedConfig:
     """Simplified configuration focused on working results"""
     
     # Files
-    PERSON_IMAGE = "Soggetto1.jpg"
-    GARMENT_IMAGE = "Capo3.png"
+    PERSON_IMAGE = "Soggetto2.jpg"
+    GARMENT_IMAGE = "Capo1.png"
     OUTPUT_DIR = "outputs_fixed"
     
     # Models - use single reliable model
