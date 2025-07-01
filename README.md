@@ -230,13 +230,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Hugging Face](https://huggingface.co/) for model hosting
 - [Diffusers](https://github.com/huggingface/diffusers) for pipeline implementation
 
-## 📧 Contact
-
-- **Developer**: Sebastiano Lucchetti
-- **Email**: sebastiano.lucchetti@example.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Project Link**: [https://github.com/yourusername/virtual-tryon-pipeline](https://github.com/yourusername/virtual-tryon-pipeline)
-
 ## 🎯 Roadmap
 
 - [ ] Support for lower body garments (pants, skirts)
@@ -248,4 +241,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by Sebastiano Lucchetti
+Made by Sebastiano Lucchetti
